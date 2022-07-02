@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971849025298",
+    "project_id": "egramam-8697f",
+    "storage_bucket": "egramam-8697f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971849025298:android:45a2c0ff0e70275f4c95cb",
+        "android_client_info": {
+          "package_name": "com.ccsit.egramam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971849025298-u7j1qc48vvgshpvecsggfcud0b67sc6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKODLoIOi0jQLORuYVv4gtgzTKxcRYN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971849025298-u7j1qc48vvgshpvecsggfcud0b67sc6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
